@@ -2,6 +2,7 @@
 for (let i = 0; i < 10; i++) {
   let hiddenFromGlobalVar = 'Ben';
 }
+
 //Declare a variable which will appear in global object.
 globalThis.sameName = 'Bond';
 
